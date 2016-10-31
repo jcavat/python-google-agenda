@@ -24,3 +24,6 @@ optional arguments:
   -a A A A A  Insérer un événemets (Exemple: -a "mon événement" 10.10.2015
               12:00 13:00)
 ```
+
+## View
+![Image example](https://cloud.githubusercontent.com/assets/1701806/19848017/f5ba5a64-9f4a-11e6-9482-caad51557e2f.jpg)
